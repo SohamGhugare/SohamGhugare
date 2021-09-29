@@ -1,7 +1,7 @@
 ### Hello, I am Soham Ghugare 👋
 
-- 🔭 I’m currently improving my Backend Development skills.
-- 🌱 I’m currently learning API and Database Management.
+- 🔭 I’m currently improving my Machine Learning skills.
+- 🌱 I’m currently learning Data Science.
 - 🎧 I love listening to music while coding.
 - 📫 Contact: </br>
         - Discord: ShadowX#1566 </br>
