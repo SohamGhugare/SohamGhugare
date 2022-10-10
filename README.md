@@ -1,7 +1,5 @@
 ### Hello, I am Soham Ghugare 👋
 
-![](https://komarev.com/ghpvc/?username=SohamGhugare)
-
 
 - 🔭 I’m currently improving my Machine Learning skills.
 - 🌱 I’m currently learning Data Science.
@@ -13,5 +11,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=SohamGhugare&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+![](https://komarev.com/ghpvc/?username=SohamGhugare)
 
 
