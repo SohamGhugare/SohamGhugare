@@ -1,5 +1,8 @@
 ### Hello, I am Soham Ghugare 👋
 
+![](https://komarev.com/ghpvc/?username=SohamGhugare)
+
+
 - 🔭 I’m currently improving my Machine Learning skills.
 - 🌱 I’m currently learning Data Science.
 - 🎧 I love listening to music while coding.
