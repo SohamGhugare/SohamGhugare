@@ -8,7 +8,8 @@
         - [Twitter]() <br>
 - ⚡ Fun fact: I started coding at the age of 13
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+![SohamGhugare's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohamGhugare)
+
 
 ![](https://komarev.com/ghpvc/?username=SohamGhugare)
 
