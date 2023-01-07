@@ -8,7 +8,7 @@
         - [Twitter]() <br>
 - ⚡ Fun fact: I started coding at the age of 13
 
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SohamGhugare&include_all_commits=true)
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SohamGhugare&include_all_commits=true&show_icons=true&theme=radical)
 
 
 ![](https://komarev.com/ghpvc/?username=SohamGhugare)
