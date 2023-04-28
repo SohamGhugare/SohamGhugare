@@ -1,5 +1,11 @@
 ### Hello, I am Soham Ghugare 👋
 
+<a href="https://www.instagram.com/soham__g18/">
+  <img align="left" alt="Soham's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/soham-ghugare/">
+  <img align="left" alt="Soham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 - 🔭 Experienced in Backend Programming
 - 🎧 I love listening to music while coding.
