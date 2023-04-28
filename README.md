@@ -30,6 +30,11 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<a href="https://github.com/SohamGhugare">
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=sohamghugare&theme=bear" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohamghugare&count_private=true&show_icons=true&theme=bear" />
+</a>
+
 ![](https://komarev.com/ghpvc/?username=SohamGhugare)
 
 
