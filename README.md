@@ -8,7 +8,7 @@
         - [Twitter]() <br>
 - ⚡ Hit me up if you wanna have a casual technical talk
 
-**Technologies** <br>
+**Technologies** <br> <br>
 ![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=golang)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
