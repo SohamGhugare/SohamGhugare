@@ -32,8 +32,6 @@
 
 <a href="https://github.com/SohamGhugare">
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=sohamghugare&theme=bear" />
-</a><br>
-<a href="https://github.com/SohamGhugare">
   <img src="https://github-readme-stats.vercel.app/api?username=sohamghugare&count_private=true&show_icons=true&theme=bear" />
 </a>
 
