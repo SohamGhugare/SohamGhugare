@@ -5,7 +5,7 @@
 </a>
 <a href="https://www.linkedin.com/in/soham-ghugare/">
   <img align="left" alt="Soham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a><br>
 
 - 🔭 Experienced in Backend Programming
 - 🎧 I love listening to music while coding.
