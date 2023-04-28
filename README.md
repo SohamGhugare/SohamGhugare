@@ -13,9 +13,9 @@
 - 🎧 I love listening to music while coding.
 - - ⚡ Hit me up if you wanna have a casual technical talk
 - 📫 Connect with me: </br>
-        > [Email](mailto:soham.ghugare@gmail.com) <br>
-        > [LinkedIn](https://www.linkedin.com/in/soham-ghugare) <br>
-        > [Twitter]() <br>
+        ⪧ [Email](mailto:soham.ghugare@gmail.com) <br>
+        ⪧ [LinkedIn](https://www.linkedin.com/in/soham-ghugare) <br>
+        ⪧ [Twitter]() <br>
 
 
 ### Technologies 💿
