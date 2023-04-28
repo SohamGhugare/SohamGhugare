@@ -12,6 +12,7 @@
 - 🔭 Experienced in Backend Programming
 - 🎧 I love listening to music while coding.
 - 📫 Connect with me: </br>
+        - [Email](mailto:soham.ghugare@gmail.com)
         - [LinkedIn](https://www.linkedin.com/in/soham-ghugare) <br>
         - [Twitter]() <br>
 - ⚡ Hit me up if you wanna have a casual technical talk
