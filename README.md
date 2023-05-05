@@ -41,10 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 52 mins
-
-Go         52 mins         ████████████████████████▓   98.86 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Go         58 mins         ████████████████████████▓   98.28 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
