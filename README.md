@@ -38,15 +38,6 @@
 
 
 ### Metrics 🚀
-<!--START_SECTION:waka-->
-
-```text
-Go         58 mins         ████████████████████████▓   98.28 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-```
-
-<!--END_SECTION:waka-->
 
 <a href="https://github.com/SohamGhugare">
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=sohamghugare&theme=bear" />
