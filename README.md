@@ -17,7 +17,7 @@
         ⪧ [Email](mailto:soham.ghugare@gmail.com) <br>
         ⪧ [LinkedIn](https://www.linkedin.com/in/soham-ghugare) <br>
         ⪧ [Twitter]() <br>
-
+- 🗃️Here's my [Resume](https://bit.ly/resume-soham)
 
 ### Technologies 💿
 
