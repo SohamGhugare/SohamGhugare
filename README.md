@@ -10,6 +10,7 @@
 ###
 
 - 🔭 Experienced in Backend Programming
+- 🎓 First Year Undergrad at VIT Vellore
 - 🎧 I love listening to music while coding.
 - ⚡ Hit me up if you wanna have a casual technical talk
 - 🖥️ Love to do hackathons
