@@ -1,4 +1,4 @@
-### Hello, I am Soham Ghugare 👋
+# Hello, I am Soham Ghugare 👋
 
 <a href="https://www.instagram.com/soham__g18/">
   <img align="left" alt="Soham's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
