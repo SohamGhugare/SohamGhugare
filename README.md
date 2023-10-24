@@ -3,9 +3,9 @@
 
 ###
 
-- 🔭 Experienced in Backend Programming
+- 🔭 Experienced in XR Development & Backend Programming
 - 🎓 Sophomore at VIT Vellore
-- 🎧 I love listening to music while coding.
+- 🎧 I love doing hackathons and listening to music while coding.
 - ⚡ Hit me up if you wanna have a casual technical talk
 - 🖥️ Love to do hackathons
 - 📫 Connect with me: </br>
