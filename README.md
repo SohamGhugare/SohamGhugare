@@ -14,6 +14,9 @@
         ⪧ [Twitter]() <br>
 - 🗃️Here's my [Resume](https://bit.ly/resume-soham)
 
+### Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soham_g18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-ghugare)
+
 ### Technologies 💿
 
 ![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=golang)
