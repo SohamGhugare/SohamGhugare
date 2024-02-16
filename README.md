@@ -42,7 +42,6 @@
 
 ### Metrics 🚀
 
-![](https://github-readme-stats.vercel.app/api?username=SohamGhugare&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) <br/>
 ![]("http://github-readme-streak-stats.herokuapp.com/?user=sohamghugare&theme=bear") <br/>
 <a href="https://github.com/SohamGhugare">
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=sohamghugare&theme=bear" />
