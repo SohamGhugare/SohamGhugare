@@ -3,11 +3,11 @@
 
 ###
 
-- 🔭 Experienced in XR Development & Backend Programming
-- 🎓 Sophomore at VIT Vellore
+- 🔭 Experienced in XR Development & Backend Programming.
+- 🎓 Sophomore at VIT Vellore.
 - 🎧 I love doing hackathons and listening to music while coding.
-- ⚡ Hit me up if you wanna have a casual technical talk
-- 🖥️ Love to do hackathons <br /><br />
+- ⚡ Hit me up if you wanna have a casual technical talk.
+- 🖥️ Love to do hackathons. <br /><br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://bit.ly/resume-soham)
 
