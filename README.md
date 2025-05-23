@@ -10,7 +10,7 @@
 - 🪐 Part-time DeFi dev, full-time chaos engineer.
 - 🧵 I win hackathons by day and argue with my compiler by night.
 - 🛠 I don’t *test in production* — I just believe in **strong dev-karma**.
-- 🦑 Once wrote a whole app because I didn’t want to fill a form.
+- 🦑 If you're building crazy tech, reinventing how we code, or just want to make a BLE-controlled espresso machine, I'm in.
 
 ### 🔮 Tools of my trade, potions of my progress 
 
