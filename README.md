@@ -1,19 +1,18 @@
-# Hello, I am Soham Ghugare 👋
+# Hello, I am Soham 👋
 
 
-###
+### Spellcaster of segfaults | Alchemist of APIs | Time-traveler stuck in your `git log`
 
-- 🔭 Experienced in Tech.
-- 🎧 I love listening to music while coding.
-- ⚡ Hit me up if you wanna have a casual technical talk.
-- 🖥️ Love to do hackathons. <br /><br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://bit.ly/resume-soham)
+## 💾 About Me
 
-### Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-ghugare) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sohamghugare) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soham_g18)
+- 🧠 Currently building **quantum things**, occasionally touching grass.
+- 🪐 Part-time DeFi dev, full-time chaos engineer.
+- 🧵 I win hackathons by day and argue with my compiler by night.
+- 🛠 I don’t *test in production* — I just believe in **strong dev-karma**.
+- 🦑 Once wrote a whole app because I didn’t want to fill a form.
 
-### Technologies 💿
+### 🔮 Tools of my trade, potions of my progress 
 
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
