@@ -10,7 +10,7 @@
 - 🪐 Part-time DeFi dev, full-time chaos engineer.
 - 🧵 I win hackathons by day and argue with my compiler by night.
 - 🛠 I don’t *test in production* — I just believe in **strong dev-karma**.
-- 🦑 If you're building crazy tech, reinventing how we code, or just want to make a BLE-controlled espresso machine, I'm in.
+
 
 ### 🔮 Tools of my trade, potions of my progress 
 
@@ -49,4 +49,5 @@
 
 ![](https://komarev.com/ghpvc/?username=SohamGhugare)
 
-
+---
+ ☕️ *If you're building crazy tech, reinventing how we code, or just want to make a BLE-controlled espresso machine, I'm in.*
